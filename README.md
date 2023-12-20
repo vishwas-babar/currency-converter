@@ -1,10 +1,10 @@
 # Currency Converter
 
-This is a simple currency converter application. It fetches the latest currency exchange rates from the [Exchange Rates API](https://open.er-api.com/v6/latest/${currency}) and allows the user to convert between different currencies.
+This is a simple currency converter application. It fetches the latest currency exchange rates from the https://open.er-api.com/v6/latest/${currency} and allows the user to convert between different currencies.
 
 ## Features
 
-- Fetches the latest exchange rates from the [Exchange Rates API](https://open.er-api.com/v6/latest/${currency}).
+- Fetches the latest exchange rates from the https://open.er-api.com/v6/latest/${currency}.
 - Supports conversions between over 160+ different currencies.
 - Allows the user to select from a list of currencies.
 - Converts the entered amount from the selected currency to another selected currency.
